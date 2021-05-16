@@ -1,0 +1,13 @@
+INSERT INTO company (identifier, name) values ('teste1', 'teste1');
+INSERT INTO company (identifier, name) values ('teste2', 'teste2');
+INSERT INTO company (identifier, name) values ('teste3', 'teste3');
+INSERT INTO company (identifier, name) values ('teste4', 'teste4');
+INSERT INTO company (identifier, name) values ('teste5', 'teste5');
+INSERT INTO company (identifier, name) values ('teste6', 'teste6');
+INSERT INTO company (identifier, name) values ('teste7', 'teste7');
+INSERT INTO company (identifier, name) values ('teste8', 'teste8');
+INSERT INTO company (identifier, name) values ('teste9', 'teste9');
+INSERT INTO company (identifier, name) values ('teste10', 'teste10');
+INSERT INTO company (identifier, name) values ('teste11', 'teste11');
+INSERT INTO company (identifier, name) values ('teste12', 'teste12');
+INSERT INTO company (identifier, name) values ('teste13', 'teste13');
