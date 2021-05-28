@@ -2,12 +2,12 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an example of how you may cache your application with redis.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example need to run redis in a docker.
+This example need to run redis in a docker.
 
 ``` 
 docker run -it \
